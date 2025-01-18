@@ -1,4 +1,4 @@
-# Visual Studio Code extension for Arduino
+ # Visual Studio Code extension for Arduino
 
 > NOTE:
 > This is a community maintained fork of [Microsoft's vscode arduino extension](https://github.com/microsoft/vscode-arduino)
